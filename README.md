@@ -4,8 +4,8 @@ Python/Flask developer building AI-powered backend systems that automate real-wo
 business workflows. I like the messy parts: webhooks that retry, models that
 rate-limit, and the edge cases that only show up in production.
 
-Based in Islamabad. Currently building a SaaS platform that replaces manual customer
-support handling for small and mid-sized businesses using LLMs and REST APIs.
+Currently building a SaaS platform that replaces manual customer support handling for
+small and mid-sized businesses using LLMs and REST APIs.
 
 🎯 Exploring **Solutions Engineering, Implementation, and Associate PM** roles where
 hands-on technical skills meet customer-facing problem solving. US citizen, open to
